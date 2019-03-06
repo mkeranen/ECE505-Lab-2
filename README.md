@@ -2,6 +2,7 @@
 GPIO, Speaker Interface, Functions
 
 Drives a buzzer using Port D GPIO pin 1. Continuously generates a stepped, 3 frequency tone.
+
 Hardware: 
 - TM4C123GH6PM Tiva C Series Launchpad Evaluation Board
 - Sparkfun RedBot Buzzer
